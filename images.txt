@@ -13,4 +13,5 @@
 #emqx:5.8.0
 #emqx:5.8.4
 #eipwork/nfs-subdir-external-provisioner:v4.0.2
-bitnami/kafka:4.0.0
+#bitnami/kafka:4.0.0
+redpandadata/console:v3.0.1
