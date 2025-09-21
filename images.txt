@@ -15,3 +15,4 @@
 #eipwork/nfs-subdir-external-provisioner:v4.0.2
 #bitnami/kafka:4.0.0
 redpandadata/console:v3.0.1
+node:16.14.0-slim
