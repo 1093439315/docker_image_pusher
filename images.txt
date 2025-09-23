@@ -6,10 +6,10 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #aiqian
-#rabbitmq:3.12.14-management
+rabbitmq:4.1.3-management
 #busybox
 #redis
-rabbitmqoperator/cluster-operator:2.16.1
+#rabbitmqoperator/cluster-operator:2.16.1
 #emqx:5.8.0
 #emqx:5.8.4
 #eipwork/nfs-subdir-external-provisioner:v4.0.2
