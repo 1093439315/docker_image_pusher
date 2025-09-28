@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #aiqian
-rabbitmq:4.1.3-management
+#rabbitmq:4.1.3-management
 #busybox
 #redis
 #rabbitmqoperator/cluster-operator:2.16.1
@@ -17,3 +17,4 @@ rabbitmq:4.1.3-management
 #redpandadata/console:v3.0.1
 #node:16.14.0-slim
 #eipwork/kuboard:v3.5.2.7
+postgres:latest
