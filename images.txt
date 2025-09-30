@@ -17,4 +17,5 @@
 #redpandadata/console:v3.0.1
 #node:16.14.0-slim
 #eipwork/kuboard:v3.5.2.7
-postgres:latest
+#postgres:latest
+openproject/openproject:16
