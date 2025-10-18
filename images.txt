@@ -18,4 +18,5 @@
 #node:16.14.0-slim
 #eipwork/kuboard:v3.5.2.7
 #postgres:latest
-openproject/openproject:16
+#openproject/openproject:16
+dockurr/windows:5.10
