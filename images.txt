@@ -23,4 +23,5 @@
 #mysql:8.4.6
 #golang:1.21.13-alpine
 #library/alpine:latest
-library/debian:stable-slim
+#library/debian:stable-slim
+library/golang:1.21.13-bookworm
