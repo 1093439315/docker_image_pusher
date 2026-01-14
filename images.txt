@@ -21,4 +21,5 @@
 #openproject/openproject:16.6.1
 #dockurr/windows:5.10
 #mysql:8.4.6
-golang:1.21.13-alpine
+#golang:1.21.13-alpine
+library/alpine:latest
