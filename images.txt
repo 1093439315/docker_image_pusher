@@ -24,4 +24,5 @@
 #golang:1.21.13-alpine
 #library/alpine:latest
 #library/debian:stable-slim
-library/golang:1.21.13-bookworm
+#library/golang:1.21.13-bookworm
+library/ubuntu:22.04
