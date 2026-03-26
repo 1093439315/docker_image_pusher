@@ -18,7 +18,7 @@
 #node:16.14.0-slim
 #eipwork/kuboard:v3.5.2.7
 #postgres:latest
-#openproject/openproject:16.6.1
+openproject/openproject:17.2.2
 #dockurr/windows:5.10
 #mysql:8.4.6
 #golang:1.21.13-alpine
@@ -28,4 +28,4 @@
 #library/ubuntu:22.04
 #library/fedora:43
 #onlyoffice/documentserver:9.3.1.2
-xiaohu2023/dzzoffice
+#xiaohu2023/dzzoffice
