@@ -29,4 +29,5 @@
 #library/fedora:43
 #onlyoffice/documentserver:9.3.1.2
 #xiaohu2023/dzzoffice
-1panel/openresty:1.27.1.2-5-1-focal
+#1panel/openresty:1.27.1.2-5-1-focal
+sonatype/nexus3:3.90.2
