@@ -32,8 +32,10 @@
 #1panel/openresty:1.27.1.2-5-1-focal
 #sonatype/nexus3:3.90.2
 traefik:v3.3
-penpotapp/frontend:2.14.0
-penpotapp/backend:2.14.0
-penpotapp/exporter:2.14.0
-valkey/valkey:8.1
-sj26/mailcatcher:latest
+#penpotapp/frontend:2.14.0
+#penpotapp/backend:2.14.0
+#penpotapp/exporter:2.14.0
+#valkey/valkey:8.1
+#sj26/mailcatcher:latest
+onlyoffice/documentserver:9.0.3.1
+onlyoffice/documentserver:9.0.4.1
