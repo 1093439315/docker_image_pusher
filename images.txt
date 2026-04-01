@@ -37,5 +37,6 @@ traefik:v3.3
 #penpotapp/exporter:2.14.0
 #valkey/valkey:8.1
 #sj26/mailcatcher:latest
-onlyoffice/documentserver:9.0.3.1
-onlyoffice/documentserver:9.0.4.1
+#onlyoffice/documentserver:9.0.3.1
+#onlyoffice/documentserver:9.0.4.1
+1panel/cordys-crm:v1.6.0
