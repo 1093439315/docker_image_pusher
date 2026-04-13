@@ -42,4 +42,5 @@
 #1panel/cordys-crm:v1.6.0
 #odoo:19.0
 #twentycrm/twenty:v1.19.1
-rustdesk/rustdesk-server-s6:latest
+#rustdesk/rustdesk-server-s6:latest
+rustfs/rustfs:latest
