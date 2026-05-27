@@ -8,7 +8,7 @@
 #aiqian
 #rabbitmq:4.1.3-management
 #busybox
-#redis:8.6.2
+redis:6.2.20-alpine
 #rabbitmqoperator/cluster-operator:2.16.1
 #emqx:5.8.0
 #emqx:5.8.4
@@ -17,7 +17,7 @@
 #redpandadata/console:v3.0.1
 #node:16.14.0-slim
 #eipwork/kuboard:v3.5.2.7
-#postgres:18.3-alpine
+postgres:14.22-bookworm
 #openproject/openproject:17.3.1
 #dockurr/windows:5.10
 #mysql:8.4.6
@@ -44,4 +44,10 @@
 #twentycrm/twenty:v1.19.1
 #rustdesk/rustdesk-server-s6:latest
 #rustfs/rustfs:latest
-registry.gitlab.com/egos-tech/smtp:latest
+#registry.gitlab.com/egos-tech/smtp:latest
+memcached:1.6.26-alpine
+edoburu/pgbouncer:v1.24.1-p1
+confluentinc/cp-kafka:7.6.6
+altinity/clickhouse-server:25.3.6.10034.altinitystable
+chrislusf/seaweedfs:4.17_large_disk
+nginx:1.31.0-alpine
