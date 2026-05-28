@@ -62,3 +62,4 @@ postgres:14.23-bookworm
 #ghcr.io/getsentry/launchpad:26.5.1
 #debian:bookworm-slim
 #registry.gitlab.com/egos-tech/smtp:latest
+ghcr.io/egos-tech/smtp:1.1.11
