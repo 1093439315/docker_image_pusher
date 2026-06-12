@@ -68,3 +68,4 @@ penpotapp/exporter:2.15.3
 #registry.gitlab.com/egos-tech/smtp:latest
 #ghcr.io/egos-tech/smtp:1.1.11
 #altinity/clickhouse-server:25.3.6.10034.altinitystable
+glitchtip/glitchtip:6
