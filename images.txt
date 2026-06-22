@@ -42,9 +42,11 @@
 #penpotapp/backend:2.15.3
 #penpotapp/exporter:2.15.3
 
-penpotapp/frontend:2.16.0
-penpotapp/backend:2.16.0
-penpotapp/exporter:2.16.0
+#penpotapp/frontend:2.16.0
+#penpotapp/backend:2.16.0
+#penpotapp/exporter:2.16.0
+penpotapp/mcp:2.16.0
+
 #valkey/valkey:8.1
 #sj26/mailcatcher:latest
 #onlyoffice/documentserver:9.0.3.1
