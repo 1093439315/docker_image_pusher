@@ -20,7 +20,7 @@
 #postgres:14.22-bookworm
 #postgres:14.23-bookworm
 #openproject/openproject:17.3.1
-openproject/openproject:17.4.0
+#openproject/openproject:17.4.0
 #dockurr/windows:5.10
 #mysql:8.4.6
 #golang:1.21.13-alpine
@@ -37,9 +37,14 @@ openproject/openproject:17.4.0
 #penpotapp/frontend:2.15.0
 #penpotapp/backend:2.15.0
 #penpotapp/exporter:2.15.0
-penpotapp/frontend:2.15.3
-penpotapp/backend:2.15.3
-penpotapp/exporter:2.15.3
+
+#penpotapp/frontend:2.15.3
+#penpotapp/backend:2.15.3
+#penpotapp/exporter:2.15.3
+
+penpotapp/frontend:2.16.0
+penpotapp/backend:2.16.0
+penpotapp/exporter:2.16.0
 #valkey/valkey:8.1
 #sj26/mailcatcher:latest
 #onlyoffice/documentserver:9.0.3.1
@@ -68,4 +73,4 @@ penpotapp/exporter:2.15.3
 #registry.gitlab.com/egos-tech/smtp:latest
 #ghcr.io/egos-tech/smtp:1.1.11
 #altinity/clickhouse-server:25.3.6.10034.altinitystable
-glitchtip/glitchtip:6
+#glitchtip/glitchtip:6
