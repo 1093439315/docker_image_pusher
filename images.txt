@@ -21,7 +21,7 @@
 #postgres:14.23-bookworm
 #openproject/openproject:17.3.1
 #openproject/openproject:17.4.0
-openproject/openproject:17.5.1
+#openproject/openproject:17.5.1
 #dockurr/windows:5.10
 #mysql:8.4.6
 #golang:1.21.13-alpine
@@ -77,3 +77,4 @@ openproject/openproject:17.5.1
 #ghcr.io/egos-tech/smtp:1.1.11
 #altinity/clickhouse-server:25.3.6.10034.altinitystable
 #glitchtip/glitchtip:6
+outlinewiki/outline:1.8.1
