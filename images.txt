@@ -81,4 +81,8 @@
 #altinity/clickhouse-server:25.3.6.10034.altinitystable
 #glitchtip/glitchtip:6
 #outlinewiki/outline:1.8.1
-docker.gitea.com/gitea:1.27.1
+#docker.gitea.com/gitea:1.27.1
+docker pull maxkeytop/maxkey:4.1.12
+maxkeytop/maxkey-mgt:4.1.12
+maxkeytop/maxkey-frontend:4.1.12
+maxkeytop/maxkey-mgt-frontend:4.1.12
