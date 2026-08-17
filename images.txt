@@ -25,6 +25,10 @@
 
 #openproject/hocuspocus:17.6.0
 #openproject/openproject:17.6.0
+
+openproject/hocuspocus:17.7.2
+openproject/openproject:17.7.2
+
 #dockurr/windows:5.10
 #mysql:8.4.6
 #golang:1.21.13-alpine
