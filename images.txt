@@ -42,18 +42,11 @@ openproject/openproject:17.7.2
 #1panel/openresty:1.27.1.2-5-1-focal
 #sonatype/nexus3:3.90.2
 #traefik:v3.3
-#penpotapp/frontend:2.15.0
-#penpotapp/backend:2.15.0
-#penpotapp/exporter:2.15.0
 
-#penpotapp/frontend:2.15.3
-#penpotapp/backend:2.15.3
-#penpotapp/exporter:2.15.3
-
-#penpotapp/frontend:2.16.0
-#penpotapp/backend:2.16.0
-#penpotapp/exporter:2.16.0
-#penpotapp/mcp:2.16.0
+penpotapp/frontend:2.17.2
+penpotapp/backend:2.17.2
+penpotapp/exporter:2.17.2
+penpotapp/mcp:2.17.2
 
 #valkey/valkey:8.1
 #sj26/mailcatcher:latest
