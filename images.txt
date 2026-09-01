@@ -17,8 +17,7 @@
 #redpandadata/console:v3.0.1
 #node:16.14.0-slim
 #eipwork/kuboard:v3.5.2.7
-#postgres:14.22-bookworm
-#postgres:14.23-bookworm
+postgres:13.23
 #openproject/openproject:17.3.1
 #openproject/openproject:17.4.0
 #openproject/openproject:17.5.1
@@ -26,8 +25,8 @@
 #openproject/hocuspocus:17.6.0
 #openproject/openproject:17.6.0
 
-openproject/hocuspocus:17.7.2
-openproject/openproject:17.7.2
+#openproject/hocuspocus:17.7.2
+#openproject/openproject:17.7.2
 
 #dockurr/windows:5.10
 #mysql:8.4.6
@@ -43,10 +42,10 @@ openproject/openproject:17.7.2
 #sonatype/nexus3:3.90.2
 #traefik:v3.3
 
-penpotapp/frontend:2.17.2
-penpotapp/backend:2.17.2
-penpotapp/exporter:2.17.2
-penpotapp/mcp:2.17.2
+#penpotapp/frontend:2.17.2
+#penpotapp/backend:2.17.2
+#penpotapp/exporter:2.17.2
+#penpotapp/mcp:2.17.2
 
 #valkey/valkey:8.1
 #sj26/mailcatcher:latest
@@ -79,7 +78,7 @@ penpotapp/mcp:2.17.2
 #glitchtip/glitchtip:6
 #outlinewiki/outline:1.8.1
 #docker.gitea.com/gitea:1.27.1
-maxkeytop/maxkey:4.1.12
-maxkeytop/maxkey-mgt:4.1.12
-maxkeytop/maxkey-frontend:4.1.12
-maxkeytop/maxkey-mgt-frontend:4.1.12
+#maxkeytop/maxkey:4.1.12
+#maxkeytop/maxkey-mgt:4.1.12
+#maxkeytop/maxkey-frontend:4.1.12
+#maxkeytop/maxkey-mgt-frontend:4.1.12
