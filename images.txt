@@ -29,6 +29,11 @@
 #openproject/openproject:17.7.2
 
 openproject/openproject:16.6.10
+openproject/hocuspocus:17.0.0
+openproject/openproject:17.0.0
+
+openproject/hocuspocus:17.4.0
+openproject/openproject:17.4.0
 
 #dockurr/windows:5.10
 #mysql:8.4.6
