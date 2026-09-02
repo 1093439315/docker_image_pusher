@@ -18,18 +18,7 @@
 #node:16.14.0-slim
 #eipwork/kuboard:v3.5.2.7
 #postgres:13.23
-#openproject/openproject:17.3.1
-#openproject/openproject:17.4.0
-#openproject/openproject:17.5.1
 
-#openproject/hocuspocus:17.6.0
-#openproject/openproject:17.6.0
-
-#openproject/hocuspocus:17.7.2
-#openproject/openproject:17.7.2
-
-openproject/openproject:16.6.10
-openproject/hocuspocus:17.0.0
 openproject/openproject:17.0.0
 
 openproject/hocuspocus:17.4.0
@@ -85,6 +74,7 @@ openproject/openproject:17.4.0
 #glitchtip/glitchtip:6
 #outlinewiki/outline:1.8.1
 #docker.gitea.com/gitea:1.27.1
+
 #maxkeytop/maxkey:4.1.12
 #maxkeytop/maxkey-mgt:4.1.12
 #maxkeytop/maxkey-frontend:4.1.12
