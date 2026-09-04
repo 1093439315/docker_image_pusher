@@ -19,10 +19,8 @@
 #eipwork/kuboard:v3.5.2.7
 #postgres:13.23
 
-openproject/openproject:17.0.0
-
-openproject/hocuspocus:17.4.0
-openproject/openproject:17.4.0
+openproject/hocuspocus:17.8.0
+openproject/openproject:17.8.0
 
 #dockurr/windows:5.10
 #mysql:8.4.6
