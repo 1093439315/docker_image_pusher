@@ -21,7 +21,7 @@
 
 #openproject/hocuspocus:17.8.0
 #openproject/openproject:17.8.0
-openproject/proxy
+#openproject/proxy
 
 #dockurr/windows:5.10
 #mysql:8.4.6
@@ -80,5 +80,6 @@ openproject/proxy
 #maxkeytop/maxkey-mgt-frontend:4.1.12
 
 #willfarrell/autoheal:1.2.0
+caddy:2
 
 
