@@ -51,7 +51,7 @@ openproject/openproject:17.8.0
 #rustdesk/rustdesk-server-s6:latest
 #rustfs/rustfs:latest
 #registry.gitlab.com/egos-tech/smtp:latest
-#memcached:1.6.26-alpine
+memcached:latest
 #edoburu/pgbouncer:v1.24.1-p1
 #confluentinc/cp-kafka:7.6.6
 #altinity/clickhouse-server:25.3.6.10034.altinitystable
@@ -78,4 +78,4 @@ openproject/openproject:17.8.0
 #maxkeytop/maxkey-frontend:4.1.12
 #maxkeytop/maxkey-mgt-frontend:4.1.12
 
-willfarrell/autoheal:1.2.0
+#willfarrell/autoheal:1.2.0
