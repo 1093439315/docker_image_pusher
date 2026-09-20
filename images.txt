@@ -77,3 +77,5 @@ openproject/openproject:17.8.0
 #maxkeytop/maxkey-mgt:4.1.12
 #maxkeytop/maxkey-frontend:4.1.12
 #maxkeytop/maxkey-mgt-frontend:4.1.12
+
+willfarrell/autoheal:1.2.0
