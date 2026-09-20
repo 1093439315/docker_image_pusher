@@ -19,8 +19,9 @@
 #eipwork/kuboard:v3.5.2.7
 #postgres:13.23
 
-openproject/hocuspocus:17.8.0
-openproject/openproject:17.8.0
+#openproject/hocuspocus:17.8.0
+#openproject/openproject:17.8.0
+openproject/proxy
 
 #dockurr/windows:5.10
 #mysql:8.4.6
@@ -51,7 +52,7 @@ openproject/openproject:17.8.0
 #rustdesk/rustdesk-server-s6:latest
 #rustfs/rustfs:latest
 #registry.gitlab.com/egos-tech/smtp:latest
-memcached:latest
+#memcached:latest
 #edoburu/pgbouncer:v1.24.1-p1
 #confluentinc/cp-kafka:7.6.6
 #altinity/clickhouse-server:25.3.6.10034.altinitystable
@@ -79,3 +80,5 @@ memcached:latest
 #maxkeytop/maxkey-mgt-frontend:4.1.12
 
 #willfarrell/autoheal:1.2.0
+
+
