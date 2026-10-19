@@ -23,6 +23,9 @@
 #openproject/openproject:17.8.0
 #openproject/proxy
 
+openproject/hocuspocus:17.9.2
+openproject/openproject:17.9.2
+
 #dockurr/windows:5.10
 #mysql:8.4.6
 #golang:1.21.13-alpine
@@ -80,6 +83,6 @@
 #maxkeytop/maxkey-mgt-frontend:4.1.12
 
 #willfarrell/autoheal:1.2.0
-caddy:2
+#caddy:2
 
 
