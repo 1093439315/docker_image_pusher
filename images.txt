@@ -24,7 +24,7 @@
 #openproject/proxy
 
 openproject/hocuspocus:17.9.6
-openproject/openproject:17.9.6
+#openproject/openproject:17.9.6
 
 #dockurr/windows:5.10
 #mysql:8.4.6
